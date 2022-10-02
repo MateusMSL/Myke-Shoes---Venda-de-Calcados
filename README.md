@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+╭─━━━━━━━━━━━━━━━━━━━━─╮
+- # Myke Shoes (HTML)
+╰─━━━━━━━━━━━━━━━━━━━━─╯
 
-You can use the [editor on GitHub](https://github.com/MateusMSL/Myke-Shoes---Venda-de-Calcados/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Link de Acesso para o site: *https://mateusmsl.github.io/Myke-Shoes---Venda-de-Calcados/*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*Site desenvolvido com um pouco mais de experiência utilizando HTML, em dupla com um colega de classe.*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
-```markdown
-Syntax highlighted code block
+![1](https://user-images.githubusercontent.com/109548196/193476757-b53bb5ba-cb1d-47d5-a669-3afb344840f0.png)
 
-# Header 1
-## Header 2
-### Header 3
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
-- Bulleted
-- List
+![2](https://user-images.githubusercontent.com/109548196/193476760-bc5b7844-9ed8-467c-b0ee-d9a266924298.png)
 
-1. Numbered
-2. List
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
-**Bold** and _Italic_ and `Code` text
+![3](https://user-images.githubusercontent.com/109548196/193476763-1878dac2-3eba-4180-960a-4a525fd6d072.png)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MateusMSL/Myke-Shoes---Venda-de-Calcados/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
