@@ -7,7 +7,7 @@ Link de Acesso para o site: *https://mateusmsl.github.io/Myke-Shoes---Venda-de-C
 *Site desenvolvido com um pouco mais de experiência utilizando HTML, em dupla com um colega de classe.*
 
 
-•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
+•• ━━━━━━━━━━━━━━━━━━━━━━━━ ••●•• ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ••
 
 ![1](https://user-images.githubusercontent.com/109548196/193476757-b53bb5ba-cb1d-47d5-a669-3afb344840f0.png)
 
